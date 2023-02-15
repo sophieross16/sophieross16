@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Sophie and I'm currently taking part in the Software Engineering HyperionDev Bootcamp.
-#I'm a Maths & Philosophy graduate, living in London and currently working in Financial Services. :-)
+I'm a Maths & Philosophy graduate, living in London and currently working in Financial Services. :-)
 
 <!--
 **sophieross16/sophieross16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
